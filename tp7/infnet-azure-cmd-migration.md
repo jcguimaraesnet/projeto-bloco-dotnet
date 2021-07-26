@@ -34,7 +34,7 @@
 
 6. aplicando migrations em banco de dados
     ```cmd
-    dotnet ef database update --project <nome do projeto de infraestrutura com a classe dbcontext> --context <classe dbcontext> 
+    dotnet ef database update --startup-project <nome do projeto web> --project <nome do projeto de infraestrutura com a classe dbcontext> --context <classe dbcontext> 
     ```
 
 
