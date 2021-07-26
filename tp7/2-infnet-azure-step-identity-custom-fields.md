@@ -1,8 +1,7 @@
 # Identity
 
 **referências:**
-- https://docs.microsoft.com/pt-br/aspnet/core/security/authentication/identity
-- https://docs.microsoft.com/pt-br/aspnet/core/security/authentication/scaffold-identity
+- https://docs.microsoft.com/pt-br/aspnet/core/security/authentication/add-user-data
 
 
 1. mover classe usuário para um projeto de library (camada de domínio)
